@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Juan Richard — Desenvolvimento de software, dados e cibersegurança" />
+<img src="https://raw.githubusercontent.com/JuanRichard-Dev/JuanRichard-Dev/main/assets/header.svg" width="100%" alt="Juan Richard — Desenvolvimento de software, dados e cibersegurança" />
 
 Técnico em Informática e estudante de Ciência da Computação na Estácio.
 
