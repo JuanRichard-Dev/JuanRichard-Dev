@@ -1,8 +1,6 @@
 <div align="center">
 
-# Juan Richard
-
-**Desenvolvimento de software · Dados · Cibersegurança**
+<img src="assets/header.svg" width="100%" alt="Juan Richard — Desenvolvimento de software, dados e cibersegurança" />
 
 Técnico em Informática e estudante de Ciência da Computação na Estácio.
 
@@ -25,8 +23,6 @@ Busco oportunidades de entrada em TI no Rio de Janeiro e posições remotas, con
 | [Motor Atlas](https://github.com/JuanRichard-Dev/automotive-global-intelligence) | Exploração geográfica de registros automotivos, com fontes e indicadores. | Python, PySpark, PostgreSQL, FastAPI e Next.js |
 | [SafeStart](https://github.com/JuanRichard-Dev/Safestart) | Plataforma de segurança do trabalho com aplicativo móvel e painel web. | React Native, Expo, React, Vite e Supabase |
 | [Barbearia](https://github.com/JuanRichard-Dev/Barbearia) | Projeto de aplicação para o segmento de barbearias. | JavaScript e Expo |
-
-As tecnologias acima descrevem os projetos, sem indicar nível de proficiência ou experiência profissional com cada ferramenta.
 
 ## Formação
 
